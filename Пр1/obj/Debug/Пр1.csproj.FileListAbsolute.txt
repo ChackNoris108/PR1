@@ -1,0 +1,11 @@
+C:\Users\ip521-04.EMK\source\repos\Пр1\Пр1\bin\Debug\Пр1.exe.config
+C:\Users\ip521-04.EMK\source\repos\Пр1\Пр1\bin\Debug\Пр1.exe
+C:\Users\ip521-04.EMK\source\repos\Пр1\Пр1\bin\Debug\Пр1.pdb
+C:\Users\ip521-04.EMK\source\repos\Пр1\Пр1\obj\Debug\Пр1.csproj.AssemblyReference.cache
+C:\Users\ip521-04.EMK\source\repos\Пр1\Пр1\obj\Debug\Пр1.Form1.resources
+C:\Users\ip521-04.EMK\source\repos\Пр1\Пр1\obj\Debug\Пр1.Properties.Resources.resources
+C:\Users\ip521-04.EMK\source\repos\Пр1\Пр1\obj\Debug\Пр1.csproj.GenerateResource.cache
+C:\Users\ip521-04.EMK\source\repos\Пр1\Пр1\obj\Debug\Пр1.csproj.CoreCompileInputs.cache
+C:\Users\ip521-04.EMK\source\repos\Пр1\Пр1\obj\Debug\Пр1.exe
+C:\Users\ip521-04.EMK\source\repos\Пр1\Пр1\obj\Debug\Пр1.pdb
+C:\Users\ip521-04.EMK\source\repos\Пр1\Пр1\obj\Debug\Пр1.Form2.resources
